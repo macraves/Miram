@@ -1,0 +1,32 @@
+###
+Ron
+Germany
+100
+90
+81
+43
+
+
+###
+Jonathan
+United States
+85
+45
+66
+73
+100
+100
+
+
+
+
+###
+Griffin
+United Kingdom
+100
+90
+95
+###
+Daniel
+United States
+100
